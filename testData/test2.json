@@ -1,0 +1,14 @@
+{"nodes":[
+  {"id":"1", "label":"八卦-靠北-娛樂"}
+  ,{"id":"2", "label":"六都春秋"}
+  ,{"id":"3", "label":"TFC 台灣事實查核中心"}
+  ,{"id":"4", "label":"我看到 , 就分享"}
+],
+"edges":[
+  {"from":"1", "to":"2", "label":"7 day"}
+  ,{"from":"1", "to":"3", "label":"7 day"}
+  ,{"from":"1", "to":"4", "label":"0 day"}
+  ,{"from":"4", "to":"2", "label":"7 day"}
+  ,{"from":"4", "to":"3", "label":"7 day"}
+]
+}
