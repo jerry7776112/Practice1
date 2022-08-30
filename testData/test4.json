@@ -1,8 +1,8 @@
 {"nodes": [
-  {"id": "1", "label": "我看到 , 就分享", "level":"1"},
-  {"id": "2", "label": "八卦-靠北-娛樂", "level":"2"},
-  {"id": "3", "label": "六都春秋", "level":"2"},
-  {"id": "4", "label": "TFC 台灣事實查核中心", "level":"2"}
+  {"id": "1", "label": "我看到 , 就分享", "level": 1},
+  {"id": "2", "label": "八卦-靠北-娛樂", "level": 2},
+  {"id": "3", "label": "六都春秋", "level": 4},
+  {"id": "4", "label": "TFC 台灣事實查核中心", "level": 3}
 ],
  "edges": [
    {"from": "2", "to": "3", "label": "7 days 05:12:59"},
